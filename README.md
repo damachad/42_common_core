@@ -1,5 +1,5 @@
 # 42 Common core
-All programs from the common core (unless explicited otherwise) are written in C and in accordance with the [Norm](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf) 📋.
+At 42 school, all programs from the common core (unless explicited otherwise) are written in C and in accordance with the [Norm](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf) 📋.
 
 ## Rank 0 📚
 Recode functions from various libraries and create my own library ➡️ [libft](https://github.com/damachad/42_libft)
