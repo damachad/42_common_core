@@ -15,4 +15,5 @@ Create a simple 2D game ➡️ [so_long](https://github.com/damachad/42_so_long)
 Create a program that sorts integers using two stacks, with some restrictions ➡️ [push_swap](https://github.com/damachad/42_push_swap)
 
 ## Rank 3 💻
-Currently doing Minishell (create a simpler version of bash).
+Create a simpler version of bash ➡️ [minishell](https://github.com/damachad/42_minishell)   
+Currently doing Philosophers (working with threads and mutexes).
