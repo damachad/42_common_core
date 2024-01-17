@@ -16,4 +16,7 @@ Create a program that sorts integers using two stacks, with some restrictions �
 
 ## Rank 3 💻
 Create a simpler version of bash ➡️ [minishell](https://github.com/damachad/42_minishell)   
-Currently doing Philosophers (working with threads and mutexes).
+Siting Philosophers simulation, using threads and mutexes ➡️ [philosophers](https://github.com/damachad/42_philosophers)
+
+## Rank 4 🔄
+Currently working on NetPractice (Practice exercises to learn about networking).
