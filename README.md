@@ -19,4 +19,6 @@ Create a simpler version of bash ➡️ [minishell](https://github.com/damachad/
 Siting Philosophers simulation, using threads and mutexes ➡️ [philosophers](https://github.com/damachad/42_philosophers)
 
 ## Rank 4 🔄
-Currently working on NetPractice (Practice exercises to learn about networking).
+Practice exercises to learn about networking ➡️ NetPractice   
+Graphical representation of the inside of a maze from a first-person perspective using RayCasting and MiniLibX ➡️ [cub3D](https://github.com/damachad/42_cub3d)   
+Currently working on [cpp_modules](https://github.com/damachad/42_cpp_modules)
