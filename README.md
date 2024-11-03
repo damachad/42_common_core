@@ -24,5 +24,8 @@ Graphical representation of the inside of a maze from a first-person perspective
 CPP practical exercises ➡️ [cpp_modules](https://github.com/damachad/42_cpp_modules)
 
 ## Rank 5 🐋
-Multi-container Docker application with NGINX, WordPress and MariaDB ➡️ [inception](https://github.com/damachad/42_inception)
-Currently working on ...
+Multi-container Docker application with NGINX, WordPress and MariaDB ➡️ [inception](https://github.com/damachad/42_inception)   
+HTTP web server inspired by NGINX ➡️ [webserv](https://github.com/damachad/42_webserv)
+
+## Rank 6 🏓
+Currently working on ft_transcendence (a single-page application where users can play pong against each other)
