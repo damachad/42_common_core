@@ -48,9 +48,9 @@ At 42 School, all programs from the common core (unless stated otherwise) are wr
 ---
 
 ## 🏓 **Rank 6**  
-> **Current Challenge**  
+> **Current Challenge** 
 - 🎮 **Developing `ft_transcendence`:**  
-  > A single-page application where users can play pong against each other in real-time.
+  >  A real-time multiplayer pong game SPA (single-page application) built with modern web technologies (Fastify, Prisma, TypeScript, Tailwind, etc.)
 
 ---
 
