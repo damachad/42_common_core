@@ -17,4 +17,4 @@ At 42 School, all programs from the common core (unless stated otherwise) are wr
 | 4 | [cpp_modules](https://github.com/damachad/42_cpp_modules) | C++ | Learn C++ through modular exercises |
 | 5 |  [inception](https://github.com/damachad/42_inception) | Docker, MariaDB, NGINX, WordPress | Build a multi-container Docker app with NGINX, WordPress & MariaDB |
 | 5 |  [webserv](https://github.com/damachad/42_webserv) | C++ | Create an HTTP web server inspired by NGINX |
-| 6 | ft_transcendence (*in progress*)  | TypeScript, Fastify, Prisma, Tailwind, Solidity | Real-time Single-Page Application for multiplayer Pong matches |
+| 6 | [ft_transcendence](https://github.com/damachad/42Porto-Transcendence)  | TypeScript, Fastify, Prisma, Tailwind, Solidity | Real-time Single-Page Application for multiplayer Pong matches |
