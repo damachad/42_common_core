@@ -18,3 +18,12 @@ At 42 School, all programs from the common core (unless stated otherwise) are wr
 | 5 |  [inception](https://github.com/damachad/42_inception) | Docker, MariaDB, NGINX, WordPress | Build a multi-container Docker app with NGINX, WordPress & MariaDB |
 | 5 |  [webserv](https://github.com/damachad/42_webserv) | C++ | Create an HTTP web server inspired by NGINX |
 | 6 | [ft_transcendence](https://github.com/miguelsrmv/42Porto-Transcendence)  | TypeScript, Fastify, Prisma, Tailwind, Solidity | Real-time Single-Page Application for multiplayer Pong matches |
+
+## Holy Graph
+**Legend**:   
+- Blue circles: concluded projects   
+- White circles: available projects   
+- Orange circles: require other projects to be concluded first   
+- Grey circles: unavailable   
+
+<img width="1569" height="1005" alt="Holy Graph" src="https://github.com/user-attachments/assets/e090fced-0697-4d4a-a0d8-ec12dd374ee6" />
